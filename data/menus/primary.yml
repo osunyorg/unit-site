@@ -10,9 +10,5 @@
 - title: Actualités
   target: "/"
   kind: blank
-  children:
-  - title: Événements
-    target: "/actualites/evenements/"
-    kind: category
-    children: []
+  children: []
 
