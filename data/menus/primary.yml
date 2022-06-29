@@ -7,4 +7,8 @@
     target: "/la-fondation/qui-sommes-nous/"
     kind: page
     children: []
+- title: Actualités
+  target: "/"
+  kind: blank
+  children: []
 
