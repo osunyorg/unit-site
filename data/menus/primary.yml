@@ -2,5 +2,9 @@
 - title: La Fondation
   target: "/"
   kind: blank
-  children: []
+  children:
+  - title: Qui sommes-nous ?
+    target: "/la-fondation/qui-sommes-nous/"
+    kind: page
+    children: []
 
