@@ -12,7 +12,7 @@
   kind: posts
   children: []
 - title: Nos projets
-  target: "/"
-  kind: blank
+  target: "/actualites/"
+  kind: posts
   children: []
 
