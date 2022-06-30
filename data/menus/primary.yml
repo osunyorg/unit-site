@@ -11,7 +11,7 @@
   target: "/actualites/"
   kind: posts
   children: []
-- title: test
+- title: Nos projets
   target: "/nos-projets/"
   kind: page
   children: []
