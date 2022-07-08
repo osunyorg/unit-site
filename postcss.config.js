@@ -1,20 +1,31 @@
 /* eslint-disable no-undef */
-var devPlugins = {},
-    productionPlugins = {
+module.exports = {
+    plugins: {
         autoprefixer: {},
         cssnano: {
             preset: 'default'
         },
         '@fullhuman/postcss-purgecss': {
             content: [
+                // './hugo_stats.json',
                 './themes/**/*.html',
                 'layouts/**/*.html'
             ],
+            // defaultExtractor: (content) => {
+            //     let els = JSON.parse(content).htmlElements;
+            //     return els.tags.concat(els.classes, els.ids);
+            // },
             safelist: {
                 standard: [
                     'show',
                     'active',
                     'collapsed',
+                    'h1',
+                    'h2',
+                    'h3',
+                    'h4',
+                    'h5',
+                    'h6',
                     /^dropdown/,
                     /^nav-level-/,
                     /^splide_/,
@@ -35,6 +46,8 @@ var devPlugins = {},
                 ],
                 deep: [
                     // Glightbox
+                    /block-/,
+                    /ratio/,
                     /^glightbox/,
                     /^gslide/,
                     /^desc-top/,
@@ -56,12 +69,21 @@ var devPlugins = {},
                     /__home/,
                     /__page/,
                     /__section/,
-                    /__term/
+                    /__term/,
+                    /__taxonomy/,
+                    /posts/,
+                    /block-timeline/,
+                    /call_to_action/,
+                    /association/,
+                    /pleas/,
+                    /posts/,
+                    /challenges/,
+                    /point-de-vue/,
+                    /publications/,
+                    /actualites/,
+                    /agir-soutenir/
                 ]
             }
         }
-    };
-
-module.exports = {
-    plugins: process.env.HUGO_ENVIRONMENT === 'production' ? productionPlugins : devPlugins
+    }
 };
