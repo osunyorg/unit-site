@@ -7,4 +7,8 @@
   target: https://www.canal-u.tv/chaines/unit/
   kind: url
   children: []
+- title: LinkedIn
+  target: https://www.linkedin.com/company/fondation-unit/
+  kind: url
+  children: []
 
