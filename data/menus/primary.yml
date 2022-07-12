@@ -7,16 +7,16 @@
     target: "/la-fondation/qui-sommes-nous/"
     kind: page
     children: []
+  - title: Notre gouvernance
+    target: "/la-fondation/notre-gouvernance/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/actualites/"
   kind: posts
   children: []
 - title: Nos projets
   target: "/nos-projets/"
-  kind: page
-  children: []
-- title: Notre gouvernance
-  target: "/la-fondation/notre-gouvernance/"
   kind: page
   children: []
 
