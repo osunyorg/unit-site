@@ -11,16 +11,16 @@
     target: "/la-fondation/notre-gouvernance/"
     kind: page
     children: []
+- title: Nos établissements membres
+  target: "/la-fondation/nos-etablissements-membres/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: posts
   children: []
 - title: Nos projets
   target: "/nos-projets/"
-  kind: page
-  children: []
-- title: Nos établissements membres
-  target: "/la-fondation/nos-etablissements-membres/"
   kind: page
   children: []
 
