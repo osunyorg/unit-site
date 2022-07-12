@@ -19,4 +19,8 @@
   target: "/nos-projets/"
   kind: page
   children: []
+- title: Nos établissements membres
+  target: "/la-fondation/nos-etablissements-membres/"
+  kind: page
+  children: []
 
