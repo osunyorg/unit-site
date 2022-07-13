@@ -27,4 +27,8 @@
   target: "/nos-projets/"
   kind: page
   children: []
+- title: Sonate
+  target: "/nos-projets/sonate/"
+  kind: page
+  children: []
 
