@@ -19,10 +19,6 @@
     target: "/la-fondation/les-universites-numeriques-thematiques/"
     kind: page
     children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: posts
-  children: []
 - title: Nos projets
   target: "/nos-projets/"
   kind: page
@@ -35,4 +31,8 @@
     target: "/nos-projets/les-grains-dunit/"
     kind: page
     children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: posts
+  children: []
 
