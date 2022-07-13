@@ -20,8 +20,8 @@
     kind: page
     children: []
 - title: Nos projets
-  target: "/nos-projets/"
-  kind: page
+  target: "/"
+  kind: blank
   children:
   - title: SONATE
     target: "/nos-projets/sonate/"
