@@ -31,6 +31,10 @@
     target: "/nos-projets/les-grains-dunit/"
     kind: page
     children: []
+  - title: Plus de projet
+    target: "/nos-projets/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/actualites/"
   kind: posts
