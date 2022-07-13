@@ -23,4 +23,8 @@
   target: "/nos-projets/"
   kind: page
   children: []
+- title: Les Universités Numériques Thématiques
+  target: "/la-fondation/les-universites-numeriques-thematiques/"
+  kind: page
+  children: []
 
