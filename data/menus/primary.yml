@@ -15,16 +15,16 @@
     target: "/la-fondation/nos-etablissements-membres/"
     kind: page
     children: []
+  - title: Les Universités Numériques Thématiques
+    target: "/la-fondation/les-universites-numeriques-thematiques/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/actualites/"
   kind: posts
   children: []
 - title: Nos projets
   target: "/nos-projets/"
-  kind: page
-  children: []
-- title: Les Universités Numériques Thématiques
-  target: "/la-fondation/les-universites-numeriques-thematiques/"
   kind: page
   children: []
 
