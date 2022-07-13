@@ -32,7 +32,7 @@
     kind: page
     children: []
   - title: "+ de projets"
-    target: "/nos-projets/plus-de-projet/"
+    target: "/nos-projets/plus-de-projets/"
     kind: page
     children: []
 - title: Actualités
