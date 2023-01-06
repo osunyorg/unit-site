@@ -1,6 +1,6 @@
 ---
 - title: La Fondation
-  target: "/"
+  target: ''
   kind: blank
   children:
   - title: Qui sommes-nous ?
@@ -20,7 +20,7 @@
     kind: page
     children: []
 - title: Nos projets
-  target: "/"
+  target: ''
   kind: blank
   children:
   - title: SONATE
@@ -37,6 +37,6 @@
     children: []
 - title: Actualités
   target: "/actualites/"
-  kind: posts
+  kind: page
   children: []
 
