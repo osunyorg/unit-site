@@ -1,10 +1,10 @@
 ---
 - title: Twitter
-  target: https://twitter.com/FondationUNIT/
+  target: https://twitter.com/FondationUNIT
   kind: url
   children: []
 - title: Canal-U
-  target: https://www.canal-u.tv/chaines/unit/
+  target: https://www.canal-u.tv/chaines/unit
   kind: url
   children: []
 - title: LinkedIn
