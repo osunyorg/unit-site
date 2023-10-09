@@ -145,15 +145,10 @@ caniuse-api@^3.0.0:
     lodash.memoize "^4.1.2"
     lodash.uniq "^4.5.0"
 
-caniuse-lite@^1.0.0:
+caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001538, caniuse-lite@^1.0.30001541:
   version "1.0.30001546"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001546.tgz#10fdad03436cfe3cc632d3af7a99a0fb497407f0"
   integrity sha512-zvtSJwuQFpewSyRrI3AsftF6rM0X80mZkChIt1spBGEvRglCrjTniXvinc8JKRoqTwXAgvqTImaN9igfSMtUBw==
-
-caniuse-lite@^1.0.30001538, caniuse-lite@^1.0.30001541:
-  version "1.0.30001543"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001543.tgz#478a3e9dddbb353c5ab214b0ecb0dbed529ed1d8"
-  integrity sha512-qxdO8KPWPQ+Zk6bvNpPeQIOH47qZSYdFZd6dXQzb2KzhnSXju4Kd7H1PkSJx6NICSMgo/IhRZRhhfPTHYpJUCA==
 
 chokidar@^3.3.0:
   version "3.5.3"
@@ -450,9 +445,9 @@ domutils@^3.0.1:
     domhandler "^5.0.3"
 
 electron-to-chromium@^1.4.535:
-  version "1.4.539"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.539.tgz#5ce6b161e252132cc84501bc35d084995a2a9840"
-  integrity sha512-wRmWJ8F7rgmINuI32S6r2SLrw/h/bJQsDSvBiq9GBfvc2Lh73qTOwn73r3Cf67mjVgFGJYcYtmERzySa5jIWlg==
+  version "1.4.544"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.544.tgz#fcb156d83f0ee6e4c9d030c6fedb2a37594f3abf"
+  integrity sha512-54z7squS1FyFRSUqq/knOFSptjjogLZXbKcYk3B0qkE1KZzvqASwRZnY2KzZQJqIYLVD38XZeoiMRflYSwyO4w==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
