@@ -1,15 +1,10 @@
 ---
-name: >
-  Fondation UNIT
-address: >
+name: "Fondation UNIT"
+address: >-
   -
-zipcode: >
-  -
-city: >
-  -
-country: >
-  France
-phone: >
-  
+zipcode: "-"
+city: "-"
+country: "France"
+phone: ""
 roles: []
 ---
