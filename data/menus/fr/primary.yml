@@ -9,18 +9,22 @@ items:
     target: "/la-fondation/qui-sommes-nous/"
     kind: page
     children: []
+    file: content/fr/pages/la-fondation/qui-sommes-nous/_index.html
   - title: Notre gouvernance
     target: "/la-fondation/notre-gouvernance/"
     kind: page
     children: []
+    file: content/fr/pages/la-fondation/notre-gouvernance/_index.html
   - title: Nos établissements membres
     target: "/la-fondation/nos-etablissements-membres/"
     kind: page
     children: []
+    file: content/fr/pages/la-fondation/nos-etablissements-membres/_index.html
   - title: Les Universités Numériques Thématiques
     target: "/la-fondation/les-universites-numeriques-thematiques/"
     kind: page
     children: []
+    file: content/fr/pages/la-fondation/les-universites-numeriques-thematiques/_index.html
 - title: Nos projets
   target: ''
   kind: blank
@@ -29,16 +33,21 @@ items:
     target: "/nos-projets/sonate/"
     kind: page
     children: []
+    file: content/fr/pages/nos-projets/sonate/_index.html
   - title: Les grains d'UNIT
     target: "/nos-projets/les-grains-dunit/"
     kind: page
     children: []
+    file: content/fr/pages/nos-projets/les-grains-dunit/_index.html
   - title: "+ de projets"
     target: "/nos-projets/plus-de-projets/"
     kind: page
     children: []
+    file: content/fr/pages/nos-projets/plus-de-projets/_index.html
+  file: content/fr/pages/nos-projets/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 
