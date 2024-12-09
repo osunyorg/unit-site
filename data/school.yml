@@ -10,6 +10,8 @@ url: ""
 contact_details:
   postal_address:
     data:
+      address_name: >-
+        
       address: >-
         -
       address_additional: >-
@@ -18,18 +20,20 @@ contact_details:
         -
       city: >-
         -
-      country: >-
+      country:
         name: >-
           France
         alpha2: >-
           FR
         alpha3: >-
           FRA
-      country: >-
-        France
+    geolocation:
+      latitude: 
+      longitude: 
     text: >-
       - - - FRANCE
     html: >-
       <address itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"> <span itemprop="streetAddress">-</span> <span itemprop="postalCode">-</span> <span itemprop="addressLocality">-</span> <span itemprop="addressCountry">FRANCE</span></address>
+
 roles: []
 ---
