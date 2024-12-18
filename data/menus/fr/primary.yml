@@ -4,50 +4,59 @@ items:
 - title: La Fondation
   target: ''
   kind: blank
+  new_tab: false
   children:
   - title: Qui sommes-nous ?
     target: "/la-fondation/qui-sommes-nous/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/la-fondation/qui-sommes-nous"
     file: content/fr/pages/la-fondation/qui-sommes-nous/_index.html
   - title: Notre gouvernance
     target: "/la-fondation/notre-gouvernance/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/la-fondation/notre-gouvernance"
     file: content/fr/pages/la-fondation/notre-gouvernance/_index.html
   - title: Nos établissements membres
     target: "/la-fondation/nos-etablissements-membres/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/la-fondation/nos-etablissements-membres"
     file: content/fr/pages/la-fondation/nos-etablissements-membres/_index.html
   - title: Les Universités Numériques Thématiques
     target: "/la-fondation/les-universites-numeriques-thematiques/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/la-fondation/les-universites-numeriques-thematiques"
     file: content/fr/pages/la-fondation/les-universites-numeriques-thematiques/_index.html
 - title: Nos projets
   target: ''
   kind: blank
+  new_tab: false
   children:
   - title: SONATE
     target: "/nos-projets/sonate/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/nos-projets/sonate"
     file: content/fr/pages/nos-projets/sonate/_index.html
   - title: Les grains d'UNIT
     target: "/nos-projets/les-grains-dunit/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/nos-projets/les-grains-dunit"
     file: content/fr/pages/nos-projets/les-grains-dunit/_index.html
   - title: "+ de projets"
     target: "/nos-projets/plus-de-projets/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/nos-projets/plus-de-projets"
     file: content/fr/pages/nos-projets/plus-de-projets/_index.html
@@ -56,6 +65,7 @@ items:
 - title: Actualités
   target: "/actualites/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
