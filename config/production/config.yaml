@@ -2,6 +2,11 @@
 
 baseURL: https://uniteu.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: 4a17c5e7-d051-4e7c-be06-baff78b68198
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
