@@ -2,71 +2,98 @@
 title: Primary
 items:
 - title: La Fondation
+  slug: la-fondation
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Qui sommes-nous ?
+    slug: qui-sommes-nous
     target: "/la-fondation/qui-sommes-nous/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/la-fondation/qui-sommes-nous"
     file: content/fr/pages/la-fondation/qui-sommes-nous/_index.html
   - title: Notre gouvernance
+    slug: notre-gouvernance
     target: "/la-fondation/notre-gouvernance/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/la-fondation/notre-gouvernance"
     file: content/fr/pages/la-fondation/notre-gouvernance/_index.html
   - title: Nos établissements membres
+    slug: nos-etablissements-membres
     target: "/la-fondation/nos-etablissements-membres/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/la-fondation/nos-etablissements-membres"
     file: content/fr/pages/la-fondation/nos-etablissements-membres/_index.html
   - title: Les Universités Numériques Thématiques
+    slug: les-universites-numeriques-thematiques
     target: "/la-fondation/les-universites-numeriques-thematiques/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/la-fondation/les-universites-numeriques-thematiques"
     file: content/fr/pages/la-fondation/les-universites-numeriques-thematiques/_index.html
+  descendants_targets:
+  - "/la-fondation/les-universites-numeriques-thematiques/"
+  - "/la-fondation/nos-etablissements-membres/"
+  - "/la-fondation/notre-gouvernance/"
+  - "/la-fondation/qui-sommes-nous/"
 - title: Nos projets
+  slug: nos-projets
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: SONATE
+    slug: sonate
     target: "/nos-projets/sonate/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/nos-projets/sonate"
     file: content/fr/pages/nos-projets/sonate/_index.html
   - title: Les grains d'UNIT
+    slug: les-grains-d-unit
     target: "/nos-projets/les-grains-dunit/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/nos-projets/les-grains-dunit"
     file: content/fr/pages/nos-projets/les-grains-dunit/_index.html
   - title: "+ de projets"
+    slug: de-projets
     target: "/nos-projets/plus-de-projets/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/nos-projets/plus-de-projets"
     file: content/fr/pages/nos-projets/plus-de-projets/_index.html
+  descendants_targets:
+  - "/nos-projets/les-grains-dunit/"
+  - "/nos-projets/plus-de-projets/"
+  - "/nos-projets/sonate/"
   path: "/pages/nos-projets"
   file: content/fr/pages/nos-projets/_index.html
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 
