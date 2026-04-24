@@ -15,10 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/actualites/2022/06/16/reunion-des-acteurs-et-actrices-de-leducation-aux-sciences-du-numerique/"
+from = "/actualites/2022/06/16/reunion-des-acteurs-et-actrices-de-leducation-aux-sciences-du-numerique/index.html"
 to = "/actualites/2022-06-16-reunion-des-acteurs-et-actrices-de-leducation-aux-sciences-du-numerique/"
 
 [[redirects]]
-from = "/fondation-unit/"
+from = "/fondation-unit/index.html"
 to = "/ecoles/fondation-unit/"
 
