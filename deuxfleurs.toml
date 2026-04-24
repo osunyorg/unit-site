@@ -13,12 +13,3 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
-
-[[redirects]]
-from = "/actualites/2022/06/16/reunion-des-acteurs-et-actrices-de-leducation-aux-sciences-du-numerique/"
-to = "/actualites/2022-06-16-reunion-des-acteurs-et-actrices-de-leducation-aux-sciences-du-numerique/"
-
-[[redirects]]
-from = "/fondation-unit/"
-to = "/ecoles/fondation-unit/"
-
